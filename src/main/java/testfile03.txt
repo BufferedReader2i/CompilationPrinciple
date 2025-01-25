@@ -1,0 +1,6 @@
+int func(int aaa,int bbb) 
+{ 
+    int ccc; 
+    ccc=aaa*bbb-bbb;
+    return 0;
+} 
